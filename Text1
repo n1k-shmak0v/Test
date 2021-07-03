@@ -1,1 +1,1 @@
-foreach (DriveInfo masDrive in allDrives)
+cmbHdd.Items.Add(masDrive.Name);
